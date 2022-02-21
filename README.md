@@ -2,7 +2,7 @@
 
 一个基于纯 TypeScript + Webpack + Less 实现的迷你 web 版贪吃蛇小游戏。
 
-<div><img src=".images/photo.png" width="350"></div>
+<div><img src="https://github.com/yanbober/game_snake_mini_with_typescript/blob/main/images/photo.png" width="350"></div>
 
 ## 项目使用
 
